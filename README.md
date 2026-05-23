@@ -22,7 +22,9 @@ A professional desktop prototype application built with **Java Swing** for manag
 ## 📸 System Screenshots
 
 - [Login Screen]
+  
   <img width="339" height="384" alt="Screenshot 2026-05-23 125554" src="https://github.com/user-attachments/assets/4eb44567-7d8c-47c1-a1df-f910b4c9ec3c" />
 
 - [Inventory Dashboard]
+  
   <img width="921" height="696" alt="Screenshot 2026-05-23 125602" src="https://github.com/user-attachments/assets/99a370a9-df3a-4b89-ab8b-9c0b53ec7d93" />
